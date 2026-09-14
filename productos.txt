@@ -4,7 +4,7 @@ Precio: $25000
 Stock: 18
 Producto: Zapatillas
 Precio: $85000
-Stock: 7
+Stock: 9
 Producto: Campera
 Precio: $120000
 Stock: 5
