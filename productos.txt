@@ -6,7 +6,7 @@ Producto: Zapatillas
 Precio: $85000
 Stock: 9
 Producto: Campera
-Precio: $120000
+Precio: $129000
 Stock: 5
 Producto: Mochila
 Precio: $45000
@@ -14,3 +14,5 @@ Stock: 10
 PRODUCTOS DESTACADOS
 Zapatillas
 Campera
+ACTUALIZACION
+Catalogo revisado por el equipo de front end
