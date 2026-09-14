@@ -11,3 +11,6 @@ Stock: 5
 Producto: Mochila
 Precio: $45000
 Stock: 10
+PRODUCTOS DESTACADOS
+Zapatillas
+Campera
