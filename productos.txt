@@ -1,0 +1,7 @@
+ECOMMERCE SHOP
+Producto: Remera
+Precio: $25000
+Stock: 18
+Producto: Zapatillas
+Precio: $85000
+Stock: 7
