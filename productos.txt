@@ -16,3 +16,5 @@ Zapatillas
 Campera
 ACTUALIZACION
 Catalogo revisado por el equipo de front end
+OFERTA DEL DIA
+20% de descuento en productos seleccionados.
